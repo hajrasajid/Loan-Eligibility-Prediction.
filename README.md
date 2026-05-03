@@ -12,8 +12,8 @@ The dataset contains 614 records with 13 features, including both numerical and 
 
 **Key attributes include**
 
--Applicant income and co-applicant income
--Loan amount and loan term
+- Applicant income and co-applicant income
+- Loan amount and loan term
 -Credit history
 -Demographic features (gender, education, marital status)
 -Property area
