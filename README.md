@@ -1,4 +1,4 @@
-**Loan Approval Prediction using Logistic Regression**
+# **Loan Approval Prediction using Logistic Regression**
 
 **Project Overview**
 
@@ -66,5 +66,7 @@ Confusion matrices and ROC curves were used to evaluate model performance:
 
 This project demonstrates how Logistic Regression can be effectively used for loan approval prediction. By handling class imbalance and applying proper preprocessing, the model achieves a balanced and reliable performance.
 
-**Hajira Sajid
-Data Scientist | Building Real-World Machine Learning Solutions**
+**Author**
+
+Hajira Sajid
+Data Scientist | Building Real-World Machine Learning Solutions
